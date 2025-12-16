@@ -312,7 +312,7 @@ html {
   padding: 0;
   margin: 100px 0 0;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   column-gap: 40px;
 }
 
@@ -356,7 +356,7 @@ html {
 }
 
 .footer__column_content_social {
-  font-size: 16px;
+  margin-left: 0;
 }
 
 .footer__logo {
@@ -379,9 +379,15 @@ html {
   margin-top: 16px;
 }
 
+a:hover {
+  color: #057bf2;
+}
+
 .footer__column-link {
   color: white;
   text-decoration: none;
+  display: flex;
+  align-items: center;
 }
 
 .footer__social-icon {
