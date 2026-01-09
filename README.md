@@ -8,4 +8,4 @@ A página da biblioteca Triple Peaks é o terceiro projeto no programa de desenv
 - Flexbox
 - Posicionamento
 
-### GITHUB PAGES:
+### GITHUB PAGES: https://vitortakla17.github.io/web_project_library_pt/
